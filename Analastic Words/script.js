@@ -1,4 +1,4 @@
-import { drawStrokeOrder } from './canva.js';
+import { drawStrokeOrder } from './drawStrokeOrder.js';
 
 // Sample data to simulate the radical breakdown (in real implementation, this should be fetched from a database or API)
 const radicalData = {
